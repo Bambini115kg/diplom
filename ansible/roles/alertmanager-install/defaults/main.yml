@@ -1,0 +1,7 @@
+---
+# defaults file for alertmanager-install
+receiver_email: "info@mail.ru"
+sender_email: "alertmanager@netollogy.space"
+smtp_host: "smtp.yandex.ru:25"
+email_user_name: "vitalykay"
+email_password: "password"

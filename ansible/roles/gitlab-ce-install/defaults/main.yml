@@ -1,0 +1,11 @@
+---
+# defaults file for gitlab-ce-install
+gitlab_domain: "netollogy.space"
+gitlab_root_password: "Pa$$w0rd"
+#gitlab_user_name: "testuser"
+#gitlab_user_pass: "Pa$$w0rd"
+#gitlab_user_email: "ignatovvn@sch2057.ru"
+#gitlab_group_name: "testproj"
+#gitlab_project_name: "beonepage"
+#import_repo_url: "https://github.com/.git"
+#gitlab_modules: [ 'curl', 'tzdata', 'perl', 'gnupg2' ]
