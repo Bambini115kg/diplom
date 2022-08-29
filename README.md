@@ -20,7 +20,7 @@
 ### 3.	Установка Nginx и LetsEncrypt
 	Разработаны роли **nginx** и **nginx_let**. Использовал тестовый сертификат (--test-cert)
 
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/sert.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/cert.png)
 
 
 ### 4.	Установка кластера MySQL
@@ -31,8 +31,8 @@
 ### 5.	Установка Wordpress
 -	Установил и сделал первую настройку (пароли. Почта)
 
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/wordpress.png)
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/wordpress_work.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/wordpress_1.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/site_1.png)
 
 ### 6.	Установка Gitlab CE и Gitlab Runner
 -	Установил **Gitlab** и **shared runner**
@@ -40,8 +40,8 @@
 -	Создал тестовый файл для деплоя **“index.html”**
 -	Написал pipline для деплоя по тэгу 
 
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/gitlab.png)
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/gitlab_pipeline.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/gitlab_1.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/pipline_1.png)
 
 
 ### 7.	Установка Prometheus, Alertmanager, Node_exporter, Grafana
@@ -51,9 +51,8 @@
 -	Сделана роль для **Grafana** с дашбордами
 -	Сделана роль для **Alertmanager**  с настройками для отправки алертов на почту 
 
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/prometheus.png)
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/prometheus%20target.png)
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/alertmanager.png)
-![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/grafana.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/prometheus_1.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/alertmanager_1.png)
+![Image alt](https://github.com/Bambini115kg/diplom/raw/main/images/grafana_1.png)
 
 
